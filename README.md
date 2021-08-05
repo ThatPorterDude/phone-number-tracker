@@ -1,5 +1,5 @@
 # Phone Number Tracker
-Made with Python, allows you to track any phone number from any country (with the country code itself). It will give you the information such as country, the city, provider, and it'll verify if the number's exist or not.   
+Made with Python, allows you to track any phone number from any country (with the country code itself). It will give you the information such as country, the city, carrier, and it'll validate the possiblity of the number.  
 
 # You will need to install phonenumbers using pip:
 ```bash
