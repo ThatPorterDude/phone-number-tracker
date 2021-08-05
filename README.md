@@ -7,3 +7,5 @@ pip install phonenumbers
 ```
 Supports Python 2.5-2.7 and Python 3.x (in the same codebase, with no 2to3 conversion needed).
 
+# Usage
+Start debugging and it will 
