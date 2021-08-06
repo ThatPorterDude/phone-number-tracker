@@ -13,8 +13,12 @@ Start debugging with Python File configuration and it'll show you an input that 
 After you put the number that you've requested, it'll show you:
 
 (Region/City)
--Phone Provider Company
--Region Info
--Phone number is valid: True (if it's valid) / False (if it's invalid)
--Phone number is possible: True (if it's possible) / False (if it's impossible)
+
+Phone Provider Company
+
+Region Info
+
+Phone number is valid: True (if it's valid) / False (if it's invalid)
+
+Phone number is possible: True (if it's possible) / False (if it's impossible)
 
