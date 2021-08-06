@@ -9,7 +9,6 @@ Supports Python 2.5-2.7 and Python 3.x (in the same codebase, with no 2to3 conve
 
 # Usage
 Start debugging with Python File configuration and it'll show you an input that you want to fill it with the phone number that you want to.
-
 After you put the number that you've requested, it'll show you:
 
 (Region/City)
