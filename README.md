@@ -21,3 +21,4 @@ Phone number is valid: True (if it's valid) / False (if it's invalid)
 
 Phone number is possible: True (if it's possible) / False (if it's impossible)
 
+DISCLAIMER: For Educational Purposes Only!
